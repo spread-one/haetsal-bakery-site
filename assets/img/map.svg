@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#f3e6ce"/>
+  <rect x="50" y="45" width="160" height="100" rx="12" fill="#decbb3"/>
+  <rect x="440" y="45" width="150" height="100" rx="12" fill="#decbb3"/>
+  <rect x="50" y="280" width="160" height="95" rx="12" fill="#decbb3"/>
+  <rect x="440" y="280" width="150" height="95" rx="12" fill="#decbb3"/>
+  <path d="M0 210h640M320 0v420" stroke="#fffaf0" stroke-width="65"/>
+  <path d="M320 106c-61 0-85 71-48 114l48 57 48-57c37-43 13-114-48-114" fill="#844020"/>
+  <circle cx="320" cy="170" r="22" fill="#fffaf0"/>
+  <text x="320" y="335" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#34281e">가상 위치 · 실제 지도 아님</text>
+</svg>
